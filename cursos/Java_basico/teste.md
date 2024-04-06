@@ -4,6 +4,8 @@ Olá! Este é o meu repositório onde estou documentando minha jornada de aprend
 
 ## Sobre o Curso
 
-    O curso  Java Básico da  da Loine  Treinamentos tem vários tópicos importantes relacionados ao Java. Estou participando deste curso de forma gratis.
+    O curso  Java Básico da  da Loine  Treinamentos tem vários tópicos importantes relacionados ao Java. 
+    Estou participando deste curso de forma gratis.
 
-    link do curso https://loiane.training/
+    Link do curso https://loiane.training/
+    
