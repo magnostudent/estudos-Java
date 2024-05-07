@@ -8,6 +8,6 @@ Olá! Este é o meu repositório onde estou documentando minha jornada de aprend
 
     Link do curso 
     
-https://loiane.training/
+Link do curso https://loiane.training/
     
 
