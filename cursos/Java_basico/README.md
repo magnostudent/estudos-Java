@@ -1,4 +1,4 @@
-# Curso de Java Básico da  da Loine Treinamentos
+# Curso de Java Básico da Loine Treinamentos
 
 ## Sobre o Curso
 
