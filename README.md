@@ -1,4 +1,4 @@
-# Estudos em Java teste teste
+# Estudos em Java
 
 Este repositório contém materiais de estudos em Java. Aqui, você encontrará:
 
